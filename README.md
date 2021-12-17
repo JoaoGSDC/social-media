@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-File.png" alt="" />
+<img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-File.png" alt="" width="30%" />
   
 Social Media - Python
 </h1>
