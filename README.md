@@ -8,7 +8,7 @@ Social Media - Python
 
 ## Description
 
-This application use:\
+This application use:
 - Python
 - Flask
 - Photoshop
@@ -20,7 +20,7 @@ This application use:\
 
 In the project directory, you can run:
 
-### `python [path of main.py]`
+### `python main.py`
 
 This application will be runing in: `http://127.0.0.1:5000/`
 
